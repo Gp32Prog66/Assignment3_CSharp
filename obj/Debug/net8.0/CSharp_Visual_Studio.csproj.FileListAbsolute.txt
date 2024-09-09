@@ -12,3 +12,4 @@ C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\refint\CSharp_V
 C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.pdb
 C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.genruntimeconfig.cache
 C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\ref\CSharp_Visual_Studio.dll
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.sourcelink.json
