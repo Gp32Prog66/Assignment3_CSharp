@@ -1,0 +1,14 @@
+C:\Users\Default\Documents\CSharp_Visual_Studio\bin\Debug\net8.0\CSharp_Visual_Studio.exe
+C:\Users\Default\Documents\CSharp_Visual_Studio\bin\Debug\net8.0\CSharp_Visual_Studio.deps.json
+C:\Users\Default\Documents\CSharp_Visual_Studio\bin\Debug\net8.0\CSharp_Visual_Studio.runtimeconfig.json
+C:\Users\Default\Documents\CSharp_Visual_Studio\bin\Debug\net8.0\CSharp_Visual_Studio.dll
+C:\Users\Default\Documents\CSharp_Visual_Studio\bin\Debug\net8.0\CSharp_Visual_Studio.pdb
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.AssemblyInfoInputs.cache
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.AssemblyInfo.cs
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.csproj.CoreCompileInputs.cache
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.dll
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\refint\CSharp_Visual_Studio.dll
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.pdb
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\CSharp_Visual_Studio.genruntimeconfig.cache
+C:\Users\Default\Documents\CSharp_Visual_Studio\obj\Debug\net8.0\ref\CSharp_Visual_Studio.dll
